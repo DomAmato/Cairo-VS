@@ -38,7 +38,9 @@
     <ClCompile Include="..\..\pixman\pixman\pixman-linear-gradient.c" />
     <ClCompile Include="..\..\pixman\pixman\pixman-matrix.c" />
     <ClCompile Include="..\..\pixman\pixman\pixman-mips.c" />
-    <ClCompile Include="..\..\pixman\pixman\pixman-mmx.c" />
+    <ClCompile Include="..\..\pixman\pixman\pixman-mmx.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="..\..\pixman\pixman\pixman-noop.c" />
     <ClCompile Include="..\..\pixman\pixman\pixman-ppc.c" />
     <ClCompile Include="..\..\pixman\pixman\pixman-radial-gradient.c" />

@@ -192,6 +192,7 @@
     <ClInclude Include="..\..\cairo\src\cairo-image-info-private.h" />
     <ClInclude Include="..\..\cairo\src\cairo-image-surface-inline.h" />
     <ClInclude Include="..\..\cairo\src\cairo-image-surface-private.h" />
+    <ClInclude Include="..\..\cairo\src\cairo-line-private.h" />
     <ClInclude Include="..\..\cairo\src\cairo-list-inline.h" />
     <ClInclude Include="..\..\cairo\src\cairo-list-private.h" />
     <ClInclude Include="..\..\cairo\src\cairo-malloc-private.h" />
@@ -315,6 +316,7 @@
     <ClCompile Include="..\..\cairo\src\cairo-image-info.c" />
     <ClCompile Include="..\..\cairo\src\cairo-image-source.c" />
     <ClCompile Include="..\..\cairo\src\cairo-image-surface.c" />
+    <ClCompile Include="..\..\cairo\src\cairo-line.c" />    
     <ClCompile Include="..\..\cairo\src\cairo-lzw.c" />
     <ClCompile Include="..\..\cairo\src\cairo-mask-compositor.c" />
     <ClCompile Include="..\..\cairo\src\cairo-matrix.c" />

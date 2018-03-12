@@ -1,3 +1,6 @@
 [submodule "pixman"]
 	path = pixman
 	url = git://anongit.freedesktop.org/git/pixman.git
+[submodule "cairo"]
+	path = cairo
+	url = git://anongit.freedesktop.org/git/cairo

@@ -4,3 +4,6 @@
 [submodule "cairo"]
 	path = cairo
 	url = git://anongit.freedesktop.org/git/cairo
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib.git

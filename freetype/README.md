@@ -1,1 +1,0 @@
-Unzip the freetype files to this directory

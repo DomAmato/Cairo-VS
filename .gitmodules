@@ -10,6 +10,7 @@
 [submodule "libpng"]
 	path = libpng
 	url = https://github.com/glennrp/libpng.git
+	branch = libpng16
 [submodule "freetype"]
 	path = freetype
 	url = git://git.sv.nongnu.org/freetype/freetype2.git

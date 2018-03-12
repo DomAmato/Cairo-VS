@@ -1,1 +1,0 @@
-Unzip the libpng files to this directory

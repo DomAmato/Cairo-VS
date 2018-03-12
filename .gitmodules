@@ -1,0 +1,3 @@
+[submodule "pixman"]
+	path = pixman
+	url = git://anongit.freedesktop.org/git/pixman.git

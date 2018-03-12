@@ -453,6 +453,9 @@
     <ClInclude Include="src\cairo-features.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\cairo\src\cairo-line-private.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\cairo\src\cairo.c">
@@ -849,6 +852,9 @@
       <Filter>Win32\Font\Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\cairo\src\cairo-tristrip.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\cairo\src\cairo-line.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

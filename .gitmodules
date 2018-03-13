@@ -1,0 +1,16 @@
+[submodule "pixman"]
+	path = pixman
+	url = git://anongit.freedesktop.org/git/pixman.git
+[submodule "cairo"]
+	path = cairo
+	url = git://anongit.freedesktop.org/git/cairo
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib.git
+[submodule "libpng"]
+	path = libpng
+	url = https://github.com/glennrp/libpng.git
+	branch = libpng16
+[submodule "freetype"]
+	path = freetype
+	url = git://git.sv.nongnu.org/freetype/freetype2.git
